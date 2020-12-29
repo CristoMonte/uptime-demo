@@ -4,14 +4,8 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: order
+    url: https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx2aac4592a3c19bb1&redirect_uri=https%3A%2F%2Fump.ems.com.cn%2Fnewmail-api%2ForderProd%2Findex.html%23%2Findex&response_type=code&scope=snsapi_base#wechat_redirect
   - name: Secret Site
     url: $SECRET_SITE
 
