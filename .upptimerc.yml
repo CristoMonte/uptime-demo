@@ -6,7 +6,7 @@ repo: uptime-demo # Your GitHub repository name
 sites:
   - name: cris book
     url: http://cristo.top/
- status-website:
+status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
