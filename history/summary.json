@@ -4,13 +4,13 @@
     "url": "http://cristo.top/",
     "icon": "https://favicons.githubusercontent.com/cristo.top",
     "slug": "cris-book",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "85.32%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "86.58%",
     "uptimeWeek": "78.79%",
-    "uptimeMonth": "85.39%",
-    "uptimeYear": "98.78%",
-    "time": 4742,
+    "uptimeMonth": "85.46%",
+    "uptimeYear": "98.79%",
+    "time": 4753,
     "timeDay": 5744,
     "timeWeek": 4896,
     "timeMonth": 5618,
@@ -33,7 +33,7 @@
       "2022-07-25": 425,
       "2022-07-24": 394,
       "2022-07-23": 256,
-      "2022-07-22": 143
+      "2022-07-22": 114
     }
   }
 ]
