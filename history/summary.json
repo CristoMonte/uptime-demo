@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cristo.top.ico",
     "slug": "cris-book",
     "status": "up",
-    "uptime": "68.76%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "34.76%",
+    "uptime": "68.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "34.78%",
     "time": 2117,
     "timeDay": 768,
     "timeWeek": 898,
     "timeMonth": 756,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2023-11-09": 7,
       "2023-11-05": 47,
       "2023-11-04": 3,
       "2023-09-19": 373,
@@ -260,8 +259,7 @@
       "2022-11-14": 1440,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
-      "2022-11-11": 1440,
-      "2022-11-10": 1440
+      "2022-11-11": 1440
     }
   }
 ]
