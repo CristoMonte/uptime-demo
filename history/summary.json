@@ -6,17 +6,16 @@
     "slug": "cris-book",
     "status": "up",
     "uptime": "69.91%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "45.34%",
-    "time": 1152,
-    "timeDay": 878,
-    "timeWeek": 982,
-    "timeMonth": 1191,
-    "timeYear": 1152,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "45.40%",
+    "time": 1149,
+    "timeDay": 817,
+    "timeWeek": 981,
+    "timeMonth": 1189,
+    "timeYear": 1149,
     "dailyMinutesDown": {
-      "2023-12-18": 6,
       "2023-12-09": 43,
       "2023-12-07": 16,
       "2023-12-04": 16,
@@ -229,8 +228,7 @@
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
-      "2022-12-20": 1440,
-      "2022-12-19": 1440
+      "2022-12-20": 1440
     }
   }
 ]
