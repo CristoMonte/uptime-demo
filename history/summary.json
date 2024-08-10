@@ -4,15 +4,15 @@
     "url": "http://cristo.top/",
     "icon": "https://icons.duckduckgo.com/ip3/cristo.top.ico",
     "slug": "cris-book",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "53.35%",
-    "uptimeWeek": "62.36%",
-    "uptimeMonth": "91.34%",
-    "uptimeYear": "99.28%",
+    "uptimeWeek": "62.84%",
+    "uptimeMonth": "91.45%",
+    "uptimeYear": "99.29%",
     "time": 1798,
-    "timeDay": 3587,
-    "timeWeek": 2687,
+    "timeDay": 3594,
+    "timeWeek": 2692,
     "timeMonth": 2543,
     "timeYear": 1832,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2024-08-08": 603,
       "2024-08-07": 610,
       "2024-08-06": 666,
-      "2024-08-05": 588
+      "2024-08-05": 540
     }
   }
 ]
